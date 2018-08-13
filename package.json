@@ -46,13 +46,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/janczizikow/sleek.git"
+    "url": "git+https://github.com/graceandhumble/sleek.git"
   },
   "keywords": [],
   "author": "Jan Czizikow",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/janczizikow/sleek/issues"
+    "url": "https://github.com/graceandhumble/sleek/issues"
   },
-  "homepage": "https://github.com/janczizikow/sleek#readme"
+  "homepage": "https://github.com/graceandhumble/sleek#readme"
 }
