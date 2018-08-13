@@ -28,7 +28,7 @@ navigation: # Navigation links
 tagline: >
   Modern Jekyll theme focused on speed performance &amp; SEO best practices
 
-hero_img: https://github.com/GRACEANDHUMBLE/sleek/blob/master/assets/img/posts/Adobe_Post_20180802_210545.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: /assets/img/posts/Adobe_Post_20180802_210545.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: muyidon@gmail.com # email for form submission
 
