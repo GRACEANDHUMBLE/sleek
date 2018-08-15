@@ -28,7 +28,7 @@ navigation: # Navigation links
 tagline: >
   Artifical intelligent tutorial for normal people
 
-hero_img: sleek/assets/img/posts/Adobe_Post_20180802_210545.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: /assets/img/posts/Adobe_Post_20180802_210545.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: your-email@domain.com # email for form submission
 
